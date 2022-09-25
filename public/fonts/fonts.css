@@ -1,0 +1,5 @@
+@font-face{
+    font-family: "RozetkaWeb-Regular";
+    src: url("RozetkaWeb-Regular.woff2") format("woff2"),
+    url("RozetkaWeb-Regular.woff") format("woff");
+}
